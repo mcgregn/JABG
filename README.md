@@ -3,7 +3,7 @@ Just Another DNA Barcode Generator
 
 A package for generating and matching DNA barcodes based on Levenshtein distance. Code is written in Julia. 
 
-Generator takes arguments for barcode length ("-l"), number of sequences to genreate ("-n"), and minimum Levenshtein distance ("-d", number of substitutions or indels tolerated)
+Generator takes arguments for barcode length ("-l"), number of sequences to generate ("-n"), and minimum Levenshtein distance ("-d", number of substitutions or indels tolerated)
 
 Barcodes are currently printed to the terminal. 
 
